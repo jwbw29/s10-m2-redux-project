@@ -19,7 +19,7 @@ const FavoriteMovieList = (props) => {
             >
               {movie.title}
               <span>
-                <span class="material-icons">remove_circle</span>
+                <span className="material-icons">remove_circle</span>
               </span>
             </Link>
           </div>
